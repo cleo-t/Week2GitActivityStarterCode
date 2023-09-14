@@ -10,5 +10,6 @@ console.log(`result_add = ${result_add}`);
 console.log(`result_subtract = ${result_subtract}`);
 console.log(`result_multiply = ${result_multiply}`);
 console.log(`result_divide = ${result_divide}`);
+console.log(calc.hello) 
 console.log('done.')
 
